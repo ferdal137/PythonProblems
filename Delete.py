@@ -16,3 +16,7 @@ for i in range(n):
     c += 1
     
 print(comb)
+
+
+
+#Primes https://copyassignment.com/create-and-print-a-list-of-prime-numbers-in-python/
